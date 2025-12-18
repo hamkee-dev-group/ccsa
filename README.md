@@ -37,6 +37,10 @@
 :rocket: **Live Example Report:**  
 [View Example Audit Report](https://hamkee.net/ccsa/example-flaw.html)
 
+## Blog post
+
+[REad the full blog post where we cover how to use CCSA](https://blog.hamkee.net/ccsa-multi-layered-c-code-security-analysis/)
+
 ---
 
 ## Why use CCSA?
